@@ -3508,12 +3508,12 @@ small {
 }
 
 a {
-  color: #f96332;
+  color: #000000;
 }
 
 a:hover,
 a:focus {
-  color: #f96332;
+  color: #28c9c9;
 }
 
 h1,
